@@ -10,7 +10,7 @@ Este projeto tem como objetivo testar as habilidades e criatividade do desenvolv
 
 Utilizando uma API pública e gratuita muito famosa na internet chamada PokéApi, o desenvolvedor deverá desenvolver uma Pokedéx onde será listado todos os Pokemóns descobertos até hoje, junto com a possibilidade de trazer mais detalhes sobre cada um deles.
 
-[Clieuqe aqui e acesse a documentação da API PokeAPI](https://pokeapi.co/)
+[Clique aqui e acesse a documentação da API PokeAPI](https://pokeapi.co/)
 
 [Clique aqui para acessar o Layout no Figma](https://www.figma.com/file/tq4wCCprM3VJu8M8NQQygi/Projeto-Pokedex?type=design&node-id=1-2&mode=design&t=KxsYsMoVuSUBOwFi-0)
 
